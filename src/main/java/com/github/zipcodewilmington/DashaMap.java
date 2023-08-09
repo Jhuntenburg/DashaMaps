@@ -1,6 +1,6 @@
 package com.github.zipcodewilmington;
 
-import com.github.zipcodewilmington.create.MyLinkedList;
+import com.github.zipcodewilmington.MyLinkedList.MyLinkedList;
 
 /**
  * @author xtofer

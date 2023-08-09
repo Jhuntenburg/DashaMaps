@@ -1,4 +1,4 @@
-package com.github.zipcodewilmington.create;
+package com.github.zipcodewilmington.MyLinkedList;
 
 public class MyLinkedList {
     MyNode head;

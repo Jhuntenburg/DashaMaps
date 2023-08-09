@@ -1,6 +1,6 @@
 package com.github.zipcodewilmington;
 
-import com.github.zipcodewilmington.create.MyNode;
+import com.github.zipcodewilmington.MyLinkedList.MyNode;
 
 public class DashaMapOne extends DashaMap {
 
